@@ -2,7 +2,7 @@
 ## Un poco de historia
 Java es un lenguaje de programación creado en **1991** por [**James Gosling**](https://es.wikipedia.org/wiki/James_Gosling) para [**Sun Microsystems**](https://es.wikipedia.org/wiki/Sun_Microsystems) y publicado en **1995**.  
 El proyecto, denominado ***The Green Project***, fue desarrollado en 18 meses por un equipo de trece personas dirigidas por **James Gosling**.  
-Como curiosidad, el lenguaje desarrollado por el equipo en un principio se denominó ***Oak**, por un roble que se veia desde la oficina de **James Gosling**. Mas tarde paso a llamarse ***Green*** y al final acabo llamandose como lo conocemos hoy día.  
+Como curiosidad, el lenguaje desarrollado por el equipo en un principio se denominó ***Oak***, por un roble que se veía desde la oficina de **James Gosling**. Mas tarde paso a llamarse ***Green*** y al final acabo llamandose como lo conocemos hoy día.  
 Otra curiosidad es que los cuatro primeros bytes de los archivos ***.class*** que genera el compilador son en hexadecimal **0xCAFEBABE**, se ve que al equipo le gustaba el café.  
 
 La sitnaxis de java deriva de **C/C++**, pero con menos utilidades de bajo nivel que ellos.  
@@ -32,11 +32,11 @@ Y ahora ya podemos ejecutarlo:
 java Hola
 ```
 Resultado:  
-
+![imagen](https://github.com/HectorCRM/HolaMundo/blob/main/Lenguajes/Java/images/Snapshot_2025-12-09_00-31-13.png)
 
 
 ## Requisitos
--Un ordenador, o incluso se puede hacer en un smartphone Android si tienes instalado ***Termux***.
+-Un ordenador, o incluso se puede hacer en un smartphone Android si tienes instalado ***Termux***.  
 -JDK instalado en el sistema operativo
 ## Autor 👨‍🎓
 **Héctor Monroy Fuertes** - Estudiante de DAM. 
