@@ -19,7 +19,7 @@ nano Hola.cpp
 Y escribimos el siguiente código:
 ```
 #include <iostream>
-using namespade std;
+using namespace std;
 int main(){
   cout << "Hola mundo!" <<endl;
   return 0;
