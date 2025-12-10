@@ -1,4 +1,4 @@
-# C++ 💻
+# C++ [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 ## Un poco de historia 📚
 **C++** es un lenguaje de programación creado en **1979** por [**Bjarne Stroustrup**](https://es.wikipedia.org/wiki/Bjarne_Stroustrup), en los Laboratorios Bell. Aunque no fue hasta **1983** que fue bautizado con el nombre que lo conocemos hoy día, ya que hasta entonces se lo llamaba ***C con clases***. Fue uno de los compañeros de **Bjarne Stroustrup**, **Rick Mascitti**, quien propuso el nombre de **C++**.  
 Fue creado como una extensión de **C** para dotarlo de **POO**. Es un lenguaje multiparadigma, puesto que permite programación generica, programación estructurada y POO. 
