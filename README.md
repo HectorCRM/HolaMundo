@@ -1,6 +1,7 @@
 # ¡Hola mundo! 🖥️ ![Lenguajes del Repo](https://img.shields.io/github/languages/top/HectorCRM/HolaMundo) 
+
 El badge del titulo ⬆️ mostrará el lenguaje de programación que requiera más lineas de código para imprimir un **"Hola Mundo!"** por pantalla.
-## Índice de lenguajes  
+## Índice de lenguajes  ![Numero de Lenguajes](https://img.shields.io/github/languages/count/HectorCRM/HolaMundo?label=lenguajes)
 Lenguajes de programación analizados, en orden cronologico de aparición:  
 - [**C**](./Lenguajes/C), la saga:  
   - [C++](./Lenguajes/C++/)
@@ -16,3 +17,5 @@ Por tanto la convención de programar un **"Hello world"** cuando estamos aprend
  
 ## Autor 👨‍🎓
 **Héctor Monroy Fuertes** - Estudiante de DAM. 
+
+
