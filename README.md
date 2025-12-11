@@ -1,9 +1,10 @@
 # ¡Hola mundo! 🖥️ ![Lenguajes del Repo](https://img.shields.io/github/languages/top/HectorCRM/HolaMundo) 
 El badge del titulo ⬆️ mostrará el lenguaje de programación que requiera más lineas de código para imprimir un **"Hola Mundo!"** por pantalla.
-## Índice de lenguajes
+## Índice de lenguajes  
+Lenguajes de programación analizados, en orden cronologico de aparición:  
+- [**C**](./Lenguajes/C), la saga:  
+  - [C++](./Lenguajes/C++/)
 - [Java](./Lenguajes/Java/)
-- [C](./Lenguajes/C) 
-  - [C++](./Lenguajes/C++/) 
 ## ¿Cual es la finalidad de este repositorio? 💻📚
 La finalidad de este repositorio es mezclar dos de los campos que más me gustan: la programación y la historia.  
 Con este repositorio me propongo aprender(y mostrar) como se programa un **"Hola mundo!** en diferentes lenguajes de programación, los cuales ire añadiendo poco a poco.  
