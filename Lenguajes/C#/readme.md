@@ -1,4 +1,4 @@
-# C# [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+# C# [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 ## Un poco de historia 📚
 **C#** o **C Sharp** es un lenguaje de programación publicado en el año **2000** por un equipo formado por [**Anders Hejlsberg**](https://es.wikipedia.org/wiki/Anders_Hejlsberg) para Microsoft, para dotar de orientación a objetos a la plataforma **.NET**.  
 Su sintaxis deriva de **C** y **C++** y utiliza el modelo de objetos similar al de **Java**.  
