@@ -5,6 +5,7 @@ El badge del titulo ⬆️ mostrará el lenguaje de programación que requiera m
 Lenguajes de programación analizados, en orden cronologico de aparición:  
 - [**C**](./Lenguajes/C), la saga:  
   - [C++](./Lenguajes/C++/)
+  - [C#](./Lenguajes/C#/)
 - [Java](./Lenguajes/Java/)
 ## ¿Cual es la finalidad de este repositorio? 💻📚
 La finalidad de este repositorio es mezclar dos de los campos que más me gustan: la programación y la historia.  
