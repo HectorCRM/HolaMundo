@@ -30,7 +30,7 @@ msc Hola.cs -o HolaMundo
 ```
 Ya podemos ejecutar nuestro programa!:
 ```
-./HolaMundo
+mono HolaMundo
 ```
 Resultado:  
 ![Proceso completo](https://github.com/HectorCRM/HolaMundo/blob/main/Lenguajes/C%23/images/Snapshot_2025-12-12_11-19-45.png)
