@@ -1,8 +1,9 @@
-# ¡Hola mundo! 🖥️ ![Lenguajes del Repo](https://img.shields.io/github/languages/top/HectorCRM/HolaMundo) 
+# ¡Hola mundo! 🖥️  ![Visitas](https://komarev.com/ghpvc/?username=HectorCRM-HolaMundo&color=blue&style=round&label=Visitantes:)
 
-El badge del titulo ⬆️ mostrará el lenguaje de programación que requiera más lineas de código para imprimir un **"Hola Mundo!"** por pantalla.
 ## Índice de lenguajes  ![Numero de Lenguajes](https://img.shields.io/github/languages/count/HectorCRM/HolaMundo?label=lenguajes)
-Lenguajes de programación analizados, en orden cronologico de aparición:  
+Los lenguajes de programación analizdos figuran en orden cronológico de aparición.  
+Lenguaje que más código requiere para programar un **"Hola mundo!"**:
+![Lenguajes del Repo](https://img.shields.io/github/languages/top/HectorCRM/HolaMundo)
 - [**C**](./Lenguajes/C), la saga:  
   - [C++](./Lenguajes/C++/)
   - [C#](./Lenguajes/C%23/)
