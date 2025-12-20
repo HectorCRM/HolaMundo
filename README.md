@@ -6,6 +6,7 @@ Los lenguajes de programación analizdos en este proyecto figuran en orden crono
 - [**C**](./Lenguajes/C), la saga:  
   - [C++](./Lenguajes/C++/)
   - [C#](./Lenguajes/C%23/)
+  - [C†](.Lenguajes/HolyC/)
 - [Java](./Lenguajes/Java/)
 ## ¿Cual es la finalidad de este repositorio? 💻📚
 La finalidad de este repositorio es mezclar dos de los campos que más me gustan: la programación y la historia.  
