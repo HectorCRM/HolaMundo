@@ -1,4 +1,4 @@
-# C† [HolyC](./images/HolyC_Logo_escalado.png)
+# C† [HolyC] (./images/HolyC_Logo_escalado.png)
 ## Un poco de historia 📚
 **C†** o **HolyC** es un lenguaje de programación creado por **Terry A. Davis** para escribir su propio sistema operativo, [**TempleOS**](https://templeos.org/). HolyC deriva de C y fue desarrollado por Davis entre **2003** y **2014**. Lo desarrolló con modificaciones para hacerlo más simple que C, e integrado con el hardware, él mismo lo describía como un lenguaje recreativo  y divertido, enfocado en la programación de bajo nivel sin complicaciones modernas.  
 Su sintaxis es similar a la de C, usando estructuras de C pero con extensiones. Por ejemplo las cadenas *"ejemplo"*, actúan como llamadas a *printf* automáticamente. C† se compila en tiempo de ejecución(Just-In-Time). La extensión de los archivos de código de C† es **.HC**.  
