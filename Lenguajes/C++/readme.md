@@ -7,7 +7,7 @@ Como curiosidad, **C++** es el lenguaje que se utiliza en programación de micro
 
 ## Sobre Bjarne Stroustrup :man:
 [**Bjarne Stroustrup**](https://es.wikipedia.org/wiki/Bjarne_Stroustrup) nació el 30 de Diciembre de 1950 en Aarhus, Dinamarca. Se crió en el seno de una familia de clase trabajadora, asistiendo a colegios locales. Asistió a la Universidad de Aarhus entre 1969 y 1975, donde se graduó *Candidatus Scientiarum* en matemáticas con informática, un titulo establecido en la Unión Soviética y que fue adoptado por muchos países de Europa central y del Este, equivalente a una maestría. En 1979 obtuvo un doctorado en informática por la Universidad de Cambridge, tras lo cual comenzó su carrera en el Centro de Investigación en Ciencias de la Computación de Laboratorios Bell. Fue entonces cuando comenzó a trabjar en C++.  
-[Bjarne Stroustrup, Wikimeadia Commons](./images/Bjarne-stroustrup_(cropped).jpg)  
+![Bjarne Stroustrup, Wikimeadia Commons](./images/Bjarne-stroustrup_(cropped).jpg)  
 
 Entre 2002 y 2014 fue profesor de Ingeniería en Ciencias de la Computación en la Universidad de Texas, desde 2011 fue nombrado Profesor Distinguido de dicha Univiersidad.  
 Desde Enero de 2014 hasta Abril de 2022 fue investigador técnico y director general de la división de tecnología de Morgan Stanley y profesor visitante de informática en la Universidad de Columbia.  
