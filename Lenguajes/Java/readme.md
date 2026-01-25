@@ -9,7 +9,7 @@ La sitnaxis de java deriva de **C/C++**, pero con menos utilidades de bajo nivel
 El **bytecode** generado al ser compilado se puede ejecutar en cuqluier ***maquina virtual java(JVM)***, sin importar la arquitectura subyacente.  
 
 ## Sobre James Gosling :man:
-[**James Gosling](https://es.wikipedia.org/wiki/James_Gosling) nació el 19 de mayo de 1955 en Calgary, Canadá. Desde muy joven mostró un gran interes por la informática y la tecnología, creando sus propios dispositivos electrónicos. Esto le llevo a profundizar en el mundo de la programación.  
+[**James Gosling**](https://es.wikipedia.org/wiki/James_Gosling) nació el 19 de mayo de 1955 en Calgary, Canadá. Desde muy joven mostró un gran interes por la informática y la tecnología, creando sus propios dispositivos electrónicos. Esto le llevo a profundizar en el mundo de la programación.  
 Estudió Cincias de la Computación en la Universidad de Calgary, destacando por su habilidad para resolver problemas complejos. Tras su licenciatura en 1977, decidió continuar sus estudios en la Universidad Carnegie Mellon, donde, en 1983, se doctoró en Ciencias de la Computación.  
 ![James Gosling, 2008. WikiMedia Commons](./images/James_Gosling_2008.jpg)
 En 1984 Gosling comenzó su carrera en Sun Microsystems. En 1990 la compañia inicio un nuevo proyecto llamado  **The Green Project**, cuyo objetivo era desarrollar un sistema operativo para dispositivos inteligentes. El problema con que se encontraron fue que cada fabricante tenia hardware y sistemas operativos diferentes, lo que complicaba enormemente la creación de aplicaciones universales. A raiz de este problema Gosling creó Java, siendo publicado oficialmente en 1995.  
