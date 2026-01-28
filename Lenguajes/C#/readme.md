@@ -50,7 +50,7 @@ Ya podemos ejecutar nuestro programa!:
 ./HolaMundo
 ```
 Resultado:  
-![Proceso completo](https://github.com/HectorCRM/HolaMundo/blob/main/Lenguajes/C#/images/Snapshot_2025-12-12_11-19-45.png)
+![Proceso completo](./images/Snapshot_2025-12-12_11-19-45.png)
 
 ## Requisitos
 -Ordenador  
